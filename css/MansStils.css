@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 16, 2024, 12:06:50 PM
+    Author     : kmitrofanovs3
+*/
+
+body
+{
+    background-image: url('images/time-management-1966396_1920.jpg');
+    background-color: black;
+    color: whitesmoke
+}
+
+
+table, td, tr, th {
+    border: 3px solid whitesmoke;
+    border-collapse: collapse;
+}
